@@ -1,0 +1,30 @@
+PP00, Margarita Pizza, 95
+PP01, Hawaiian Pizza, 120
+PP02, Mushroom & Ham Pizza, 129
+PP03, Smog Pizza, 129
+PP04, Four Meat Pizza, 145
+PP05, Bacon Avo Feta, 130
+PP06, Seafood Pizza, 165
+PP07, Coke, 25
+PP08, Wine, 146
+PP09, Beer, 32
+WW00, Phad Thai, 105
+WW01, Sweet & Sour Beef, 115
+WW02, Sweet & Sour Pork, 129
+WW03, Thai Green Curry, 109
+WW04, Crispy Duck, 140
+WW05, Egg Fried Rice, 25
+WW06, Noodles, 25
+WW07, Soda, 20
+WW08, Iced Tea, 28
+WW09, Cider, 27
+BB00, Beef Burger, 99
+BB01, Hawaiian Burger, 109
+BB02, Bacon Avo Feta Burger, 129
+BB03, Tikka Chicken Burger, 109
+BB04, Cheddar Cheese Melt, 109
+BB05, Deep Fried Chicken Burger, 109
+BB06, Chips, 35
+BB07, Coke, 22
+BB08, Fresh Juice, 30
+BB09, Beer, 30
